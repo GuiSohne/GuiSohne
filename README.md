@@ -85,20 +85,19 @@
   />
 </a>
 
-<!-- INSTA -->
-<a href="https://github.com/GuiSohne" target="_blank">
+<!-- Insta -->
+<a href="https://www.instagram.com/g_.sohne?cplk=MWZrdzRsbjU4Mm5zOQ==" target="_blank">
   <img
     src="https://skillicons.dev/icons?i=instagram"
     width="45"
   />
 
   <!-- gmail -->
-<a href="https://github.com/GuiSohne" target="_blank">
+<a href="mailto:guilhermesohnes@gmail.com" target="_blank">
   <img
     src="https://skillicons.dev/icons?i=gmail"
     width="45"
   />
-</a>
 </a>
 
 </p>
