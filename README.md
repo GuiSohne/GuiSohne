@@ -70,7 +70,7 @@
 <p align="center">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BT3AKXnWfQcSppiMtkGDTLQ%3D%3D" target="_blank">
+<a href="www.linkedin.com/in/guilherme-sohne-67ba2a39a" target="_blank">
   <img
     src="https://skillicons.dev/icons?i=linkedin"
     width="45"
@@ -83,6 +83,22 @@
     src="https://skillicons.dev/icons?i=github"
     width="45"
   />
+</a>
+
+<!-- INSTA -->
+<a href="https://github.com/GuiSohne" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=instagram"
+    width="45"
+  />
+
+  <!-- gmail -->
+<a href="https://github.com/GuiSohne" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=gmail"
+    width="45"
+  />
+</a>
 </a>
 
 </p>
