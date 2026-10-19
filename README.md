@@ -70,7 +70,7 @@
 <p align="center">
 
 <!-- LinkedIn -->
-<a href="SEU_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BT3AKXnWfQcSppiMtkGDTLQ%3D%3D" target="_blank">
   <img
     src="https://skillicons.dev/icons?i=linkedin"
     width="45"
@@ -78,7 +78,7 @@
 </a>
 
 <!-- GitHub -->
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a href="https://github.com/GuiSohne" target="_blank">
   <img
     src="https://skillicons.dev/icons?i=github"
     width="45"
